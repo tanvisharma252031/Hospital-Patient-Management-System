@@ -1,2 +1,3 @@
 bill_id,patient_id,patient_name,consultation,room_charges,medicine,lab_charges,other_charges,total,bill_date
 B001,P001,Tanvi,200.00,150.00,500.00,0.00,0.00,850.00,2026-09-18
+B002,P002,Tanvi Sharma,300.00,700.00,1500.00,200.00,0.00,2700.00,2026-09-18
