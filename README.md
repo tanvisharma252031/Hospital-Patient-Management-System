@@ -67,7 +67,7 @@ The project was built specifically to demonstrate the integration of core Python
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hospital-management-system/
@@ -116,7 +116,7 @@ hospital-management-system/
 
 ---
 
-## 💻 Sample Input / Output
+## Sample Input / Output
 
 ### Main Menu
 ```
